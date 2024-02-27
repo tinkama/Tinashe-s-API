@@ -1,0 +1,37 @@
+[
+      {
+            "id": 1,
+            "name": "Maurinparda",
+            "status": "Special Capital Territory"
+      },
+      {
+            "id": 2,
+            "name": "Maurinaparpool",
+            "status": "Union Territory"
+      },
+      {
+            "id": 3,
+            "name": "Isla de Surbanca",
+            "status": "State"
+      },
+      {
+            "id": 4,
+            "name": "Southern Territories",
+            "status": "State"
+      },
+      {
+            "id": 5,
+            "name": "Clapour",
+            "status": "State"
+      },
+      {
+            "id": 6,
+            "name": "Ilyria",
+            "status": "Union Territory"
+      },
+      {
+            "id": 7,
+            "name": "Di Helorca",
+            "status": "Union Territory"
+      }
+]
